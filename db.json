@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "avatarURL": "https://cdn.celpox.com/bby_uploads/celeb/371856166c40e4c5906e4ea164ed8125.jpg",
+      "username": "user twittera",
+      "userurl": "coolname",
+      "userDescription": "im aso cool",
+      "location": "London",
+      "occupation": "big looser",
+      "registationDate": "09.12.2001",
+      "following": "6",
+      "followers": "15"
+    },
+    {
+      "id": "id100859294323853150805",
+      "userId": 100859294323853150000,
+      "title": "huilo",
+      "author": "pidaras",
+      "avatarURL": "https://kscopemusic.com/wp-content/uploads/2021/11/IMG_2542GAV3.png",
+      "username": "coolcat",
+      "userurl": "callmeDean",
+      "userDescription": "im so cool omagad",
+      "location": "Helsinki",
+      "occupation": "big looser",
+      "registrationDate": "09.12.2005",
+      "following": 16,
+      "followers": 45,
+      "tweets": [
+        {
+          "id": 109,
+          "content": "tired of this project :(",
+          "comments": 0,
+          "retweet": 0,
+          "timeDate": "2022-07-03 10:29:38",
+          "likes": 1,
+          "liked": true
+        },
+        {
+          "id": 108,
+          "content": "what will happen if i write a bloody long tweet can i break something or go out of bankssssssssssssssssssssssssssssssssssssssssssssssssssssssss yes",
+          "comments": 0,
+          "retweet": 0,
+          "timeDate": "2022-06-25 18:23:00",
+          "likes": 1,
+          "liked": true
+        },
+        {
+          "id": 107,
+          "content": "mamku Твою fucked",
+          "comments": 0,
+          "retweet": 0,
+          "timeDate": "2022-06-25 12:54:08",
+          "likes": 1,
+          "liked": true
+        },
+        {
+          "id": 106,
+          "content": "GROS PD",
+          "comments": 0,
+          "retweet": 0,
+          "timeDate": "2022-06-24 19:23:51",
+          "likes": 1,
+          "liked": true
+        },
+        {
+          "id": 105,
+          "content": "new top clean",
+          "comments": 0,
+          "retweet": 0,
+          "likes": 1,
+          "liked": true
+        },
+        {
+          "id": 104,
+          "content": "hjdj",
+          "comments": 0,
+          "retweet": 0,
+          "likes": 0,
+          "liked": false
+        },
+        {
+          "id": 103,
+          "content": "put at the top and no errosaaa",
+          "comments": 0,
+          "retweet": 0,
+          "likes": 0,
+          "liked": false
+        },
+        {
+          "id": 102,
+          "content": "one topper",
+          "comments": 0,
+          "retweet": 0,
+          "likes": 1,
+          "liked": true
+        },
+        {
+          "id": 101,
+          "content": "this is top",
+          "comments": 0,
+          "retweet": 0,
+          "likes": 1,
+          "liked": true
+        },
+        {
+          "id": 99,
+          "content": "NEW TWET TOP PELASE",
+          "comments": 0,
+          "retweet": 0,
+          "likes": 1,
+          "liked": true
+        },
+        {
+          "id": 98,
+          "content": "TOP LEASE",
+          "comments": 0,
+          "retweet": 0,
+          "likes": 1,
+          "liked": true
+        },
+        {
+          "id": 1,
+          "content": "BLABLABLABLABLABLBA",
+          "timeDate": "13.09.2022",
+          "comments": 134,
+          "retweet": 34,
+          "likes": 345,
+          "liked": true
+        },
+        {
+          "id": 2,
+          "content": "shaiseee",
+          "timeDate": "23.04.2022",
+          "comments": 234,
+          "retweet": 134,
+          "likes": 145,
+          "liked": false
+        },
+        {
+          "id": 3,
+          "content": "umer sasha skul",
+          "timeDate": "13.06.2022",
+          "comments": 14,
+          "retweet": 84,
+          "likes": 0,
+          "liked": false
+        },
+        {
+          "id": 98,
+          "content": "hueson",
+          "comments": 0,
+          "retweet": 0,
+          "likes": 1,
+          "liked": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chuj": "pizda"
+    },
+    {
+      "id": "id234125",
+      "userId": "234125",
+      "title": "huilo",
+      "author": "pidaras",
+      "avatarURL": "teh",
+      "username": "qrtrqr",
+      "userurl": "qhehget",
+      "userDescription": "qthe",
+      "location": "qth",
+      "occupation": "thqhq",
+      "registrationDate": "09.12.2005",
+      "following": 16,
+      "followers": 45,
+      "tweets": []
+    },
+    {
+      "id": "id234235245",
+      "userId": "234235245",
+      "title": "huilo",
+      "author": "pidaras",
+      "avatarURL": "rgs",
+      "username": "sdgwgw",
+      "userurl": "rg",
+      "userDescription": "gra",
+      "location": "rag",
+      "occupation": "arg",
+      "registrationDate": "09.12.2005",
+      "following": 16,
+      "followers": 45,
+      "tweets": []
+    },
+    {
+      "id": "id1357617",
+      "userId": "1357617",
+      "title": "huilo",
+      "author": "pidaras",
+      "avatarURL": "SEX88",
+      "username": "DENIS",
+      "userurl": "DENISSEX",
+      "userDescription": "HOTGUY",
+      "location": "twice hot",
+      "occupation": "FUCKER",
+      "registrationDate": "09.12.2005",
+      "following": 16,
+      "followers": 45,
+      "tweets": [
+        {
+          "id": 1,
+          "content": "pojebalo mi sie",
+          "comments": 0,
+          "retweet": 0,
+          "timeDate": "2022-07-04 17:45:02",
+          "likes": 0,
+          "liked": false
+        },
+        {
+          "id": 0,
+          "content": "first tweeet",
+          "comments": 0,
+          "retweet": 0,
+          "timeDate": "2022-07-04 17:44:46",
+          "likes": 1,
+          "liked": true
+        }
+      ]
+    },
+    {
+      "id": "id2435",
+      "userId": "2435",
+      "title": "huilo",
+      "author": "pidaras",
+      "avatarURL": "rq",
+      "username": "wqr",
+      "userurl": "qrw",
+      "userDescription": "qr",
+      "location": "q",
+      "occupation": "qr",
+      "registrationDate": "09.12.2005",
+      "following": 16,
+      "followers": 45,
+      "tweets": [
+        {
+          "id": 2,
+          "content": "sdfsdf",
+          "comments": 0,
+          "retweet": 0,
+          "timeDate": "2022-07-04 19:45:26",
+          "likes": 0,
+          "liked": false
+        },
+        {
+          "id": 1,
+          "content": "",
+          "comments": 0,
+          "retweet": 0,
+          "timeDate": "2022-07-04 19:45:15",
+          "likes": 0,
+          "liked": false
+        },
+        {
+          "id": 0,
+          "content": "nu czo suka",
+          "comments": 0,
+          "retweet": 0,
+          "timeDate": "2022-07-04 19:45:15",
+          "likes": 1,
+          "liked": true
+        }
+      ]
+    },
+    {
+      "id": "id1488885",
+      "userId": "1488885",
+      "title": "huilo",
+      "author": "pidaras",
+      "avatarURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2d40a2a6-1c8d-47bc-947a-e23cef83c2ed/d937o0s-56a08728-8786-42dd-b0d5-a903cfae95ea.jpg",
+      "username": "DEAN",
+      "userurl": "cool",
+      "userDescription": "heyhey",
+      "location": "cracow",
+      "occupation": "ocupied",
+      "registrationDate": "09.12.2005",
+      "following": 16,
+      "followers": 45,
+      "tweets": [
+        {
+          "id": 0,
+          "content": "dean tweet",
+          "comments": 0,
+          "retweet": 0,
+          "timeDate": "2022-07-06 15:50:13",
+          "likes": 1,
+          "liked": true
+        }
+      ]
+    }
+  ]
+}
